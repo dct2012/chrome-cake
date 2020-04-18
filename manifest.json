@@ -6,6 +6,7 @@
 	"minimum_chrome_version": "29",
 	"description": "A boilerplate replacement for Chrome's New Tab page",
 	"permissions": [
+		"bookmarks",
 		"management"
 	],
 	"chrome_url_overrides": {
